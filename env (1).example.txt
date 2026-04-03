@@ -1,0 +1,5 @@
+REQUEST_QUEUE_URL=https://knbcvkymdrcoljmoderr.supabase.co/functions/v1/request-queue?status=pending&limit=10
+INGEST_URL=https://knbcvkymdrcoljmoderr.supabase.co/functions/v1/ingest
+TMDB_API_KEY=193c909f9dcb815ea536c783dab59ff5
+HEADLESS=true
+POLL_INTERVAL_MS=15000

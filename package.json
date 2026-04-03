@@ -1,0 +1,13 @@
+{
+  "name": "mahboub-extractor-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "once": "node src/index.mjs --once"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.57.0"
+  }
+}
